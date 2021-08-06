@@ -14,8 +14,10 @@ guess = guess.lower()
 print(chosen_word)
 
 if guess in chosen_word:
-  print("True")
+  True
 else:
-  print("False")
+  False
+
+
 
 
